@@ -211,10 +211,10 @@ nav {
     padding: 15px 250px;
     display: block;
     margin-left: 30px;
-    width: 500px;
-    height: 50px;
+    width: 560px;
+    height: 55px;
     padding: 10px 20px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     box-sizing: border-box;
 }
 ::placeholder{
@@ -222,7 +222,7 @@ nav {
     font-size: 20px;
 }
 .text-area textarea{
-    width:500px;
+    width:560px;
     padding: 20px 30px;
     margin-left: 30px;
     box-sizing: border-box;
